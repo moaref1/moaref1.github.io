@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.mewsic.nativeapp",
+      "sha256_cert_fingerprints": [
+        "1B:5D:03:EA:CA:3B:ED:A6:51:E2:4D:64:A3:E8:BD:5E:F9:43:92:6C:6C:0B:66:DC:98:98:16:76:01:32:8F:80"
+      ]
+    }
+  }
+]
